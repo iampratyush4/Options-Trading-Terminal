@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pratyushmarket123",
+  "private_key_id": "de41dafa811bd6682b71a42f678dafe276f497e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQC9w4nWubdKc17N\nNrQkvzhijxrn/JyFrrJ3zqFxNMTV68OGqra/UEwFOC2WDfpFXWOu5jNFKXODiZRD\nBR32NubiAE4WDbWL86rNIRAaHqtocEZLeI08FdGSG3v59W0OFGh8x/nAM2jhurCk\ntp7ZV697hRC9KzuB8zSSA9zrwjhwXmTU2JRdOoyEISjFydfZNrxXsJr/w1vL9v1W\nbhzoElPqgpqVprDyBFQyqVR8tYYtVqgxTeJKLapPz/vqkKChKwe9h4hwgbzuSfW4\nBEvw4MSCYsoCzyT1eQpO0AYZt8OorD5BJxHOXGFSGwupeRewdGBRQAwUHdT8z/pF\nwBETsPOrAgMBAAECggEAMGohkjuatG9/6eqBhniU+axaKILuKjs6hE+fJ+NXLt7y\naTrH2kKxyokdNFIHnsfnZVmNDiG3u4EP5xN4o/c468M5KO5Bed3mn2RGl+toPwKa\nJKoymnhUmirR9CF2O+fgCqn4od1b7m9znuqK15fECUcXULQlgA+dQ32h0TKhtKUn\nH0DYjpGEPmR1tDndY1YuoA5yUeruwT3hR1H2n5nIFMY2NcfcEXBw+cZGAFTiG8hi\n/ChHwP/5jpBWgcpq2oRWw40C7zWMLi3hWMi3b+CmJhfOwRNCXrnhfAVHopLHvXG3\nBkdszsatJf7qNw6cuZhQhrrRfXno5IRlJ8nijPY6tQKBgQD8pibSUza7nIYVSYQA\nVZ0wq4l1yi110zN1hoAKv3xrwFG1ctBN72v70jrTlUcdzIS8+H4PvoSuZJNchgoV\na2uDZYhbtCmSjHtJsTMFyABHvBi0rQ3AycewJhX2wlEE4tHuip/xDlt5qF7enZJV\nZ71Qn3ZZCYFukDDP29hneDK1hwKBgQDAR92Kl+GdelylWJ8EMd76wSZ1UPEN/5z6\nbnt29lKPh/yQWK0JCHtbIw42FmIB0WYFdLPd4ulRb3PglzZYTar7MYw7JbBbIpDw\ngCMk0cv+a6q7xxllq9x2pVfLYVD0GJd3TGs7FMFcEvqSJHhGEP/YhbIl/RAI9lIF\nVh2M6vNZvQJ/C9e9+h3sct7jahwIE/vvYlioGN1hRCSiROAJIHfZXTOmoNrA6OZQ\nKX2xRDm7G6p6jmEXh6VmksYkIjImRtrCL2aS/bl0OWpcXRfxTFQTr0kh31Y9Tswm\nkBs47FgvdAstzACzfpktsIYz7Dt2oIo8VYskAQhxCL25jATCIBeCSQKBgEQEaAMR\nzRaW5VT8L2wddCJB1yfi1RK9nDsegABKDFSHpzkslTE/1dscYHeTnWHFQBCoAsR3\n808CXPxSoT/FYblwAoodv+/NH3Zj7YqlyEKctY2tVXeYvukdfhwMtcVTOalS2A/T\nPL8kW4z856rpcoeWa7lydoylDcijeNqTdjgFAoGAe+7dAxxJpV3ykL85ThaO4d0+\nIRU1FKQSkx26yByvzYMOzxWMXNT0amaiBeG055weQf0C98cMxpN8Ppn5Femo1iZv\ncnYe6uV3QiKiA/XykFE+Qi+kTICO8IdqNc8K1EVOvAYj8Lo4viAqflOytGqICpRW\nmYoO04Lows6EudQbzdw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-paisamarket@pratyushmarket123.iam.gserviceaccount.com",
+  "client_id": "108676369737546078648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-paisamarket%40pratyushmarket123.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
