@@ -1,4 +1,4 @@
-# Options Trading Terminal :cite[9]
+# Options Trading Terminal :
 
 ![GitHub](https://img.shields.io/github/license/iampratyush4/Options-Trading-Terminal)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
